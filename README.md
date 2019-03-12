@@ -35,6 +35,7 @@
 - icons8.com
 - https://color.adobe.com/create/color-wheel/
 - http://colormind.io/bootstrap/
+- Twitter (@sarah_edo, @addyosmani, @wesbos, @TheLarkInn, @jaffathecake, @keyframers‏, @dan_abramov)
 
 ## 3. Overview of a web page/site/app
 - HTML, CSS, JavaScript
@@ -75,8 +76,8 @@
   - Semantic / structual elements
   - HTML5 standard introduced a bunch a new semantic elements
   - Example elements:
-    - ```<div>``` generic container element (no meaing)
-    - ```<span>``` generic container element (no meaing)
+    - ```<div>``` generic container element (no meaning)
+    - ```<span>``` generic container element (no meaning)
     - ```<p>``` paragraph   
     - ```<address>```
     - ```<header>```
@@ -110,8 +111,8 @@
  ## 8. CSS 
   - Adds the style (appearance) and feel in some case (e.g hover)
   - See https://developer.mozilla.org/en-US/docs/Web/CSS
-  - Box model 
-    - Each HTML element. Each element is represented as a rectangular box, with content, padding, border and margin.     
+  - Box model     
+    - Each element is represented as a rectangular box, with content, padding, border and margin.     
     - Padding - inner margin (between content and border)
     - Margin - surronds the box (from border outwards). Touches other boxes.
     - Top, left, bottom, right available 
@@ -128,7 +129,7 @@
 
       - ```display: inline``` (default for ```<span>``` and more). 
         - See https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements
-        - Appear on the same line as other text as inline elements. 
+        - Appear on the same line as other text and other inline elements. 
         - width and height have no effect. 
         - padding, border, margin will affect element's text not the containing block element
       - ```display: inline-block``` 
@@ -162,6 +163,7 @@
   - Styling text
 
   - Styling boxes
+    - Maintain aspect ratio and automatically scale background image with padding bottom as a percentage using formula - Height / (Width / 100)
 
 
 ## 9. Browser devtools
