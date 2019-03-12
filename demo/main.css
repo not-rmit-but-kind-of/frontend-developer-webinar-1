@@ -110,3 +110,26 @@ header.profile {
 .profile-pic {
   width: 300px;  
 }
+
+form {
+  margin: 0 auto;
+  margin-top: 30px;
+  width: 400px;
+  text-align: center;
+}
+
+label {
+  display: block;
+}
+
+textarea {
+  margin-top: 30px;
+  display: block;
+  width: 100%;  
+}
+
+button {
+  margin-top: 30px;
+  width: 100px;
+  height: 30px;
+}
