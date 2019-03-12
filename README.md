@@ -56,16 +56,16 @@
   - DOCTYPE
   - ```<html>```
   - ```<head>```       
-      - Not visible on screen.     
-      - Every element/tag is lowercase (by convention)
-      - Contains title, scripts and style sheet (actual or references) and meta data.
-      - See https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head
-      - These tags demonstrate important feature - attributes. These are a small subset of what is available.
-      - ```<meta name="viewport" content="width=device-width, initial-scale=1">``` - used by mobile devices only. See https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag
-      - See https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
-      - ```<link>``` - used for pulling in external resouces like external style sheets (CSS) files, fonts, images for the web site when launched from a phone/tablet. See https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link
-      - In some cases above, you can instruct the browser to prefetch / preload the resouces (i.e. ```<script>```, ```<link>```)
-      - Some of these tags can be in the ```<body>```
+    - Not visible on screen.     
+    - Every element/tag is lowercase (by convention)
+    - Contains title, scripts and style sheet (actual or references) and meta data.
+    - See https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head
+    - These tags demonstrate important feature - attributes. These are a small subset of what is available.
+    - ```<meta name="viewport" content="width=device-width, initial-scale=1">``` - used by mobile devices only. See https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag
+    - See https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
+    - ```<link>``` - used for pulling in external resouces like external style sheets (CSS) files, fonts, images for the web site when launched from a phone/tablet. See https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link
+    - In some cases above, you can instruct the browser to prefetch / preload the resouces (i.e. ```<script>```, ```<link>```)
+    - Some of these tags can be in the ```<body>```
   - ```<body>``` 
      - Primarily contains the visual content.
      - It is the meaning and structure of a web page.
@@ -92,19 +92,19 @@
     - ```<ul>```    
     - Some elements are self closing, e.g ```<hr/>```, ```<br/>```, ```<img>```
     - Some elements can contain content and not require an ending tag, e.g. ```<p>hello first line<p>I'm on a new line in the browser``` but it's good practice (and convention) to include.
-    - Accessibility considerations
+  - Accessibility considerations
 
-    - Attributes 
-      - Example attributes:
-        - ```type```
-        - ```height``` (img, input)
-        - ```border``` (img, border, table)
-        - make up your own attributes ```data-*```
-        - Accessibility considerations ```alt```       
-      - See https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
+  - Attributes 
+    - Example attributes:
+      - ```type```
+      - ```height``` (img, input)
+      - ```border``` (img, border, table)
+      - make up your own attributes ```data-*```
+      - Accessibility considerations ```alt```       
+    - See https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
      
-    - SEO (semantic HTML helps)
-    - See https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
+  - SEO (semantic HTML helps)
+  - See https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
   
   
  ## 8. CSS 
@@ -149,12 +149,10 @@
       - Type
       - Class
       - ID selector
-      - Attribute selector
-
+      - Attribute selector  
       - Cominators (e.g. nth child of type, sibling)
       - Pseudo classes, Pseudo elements
-      - Rules govern which get applied (specificty)
-
+      - Rules govern which get applied (specificty) 
       - See https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
       - See https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
       - !important (not recommended)
