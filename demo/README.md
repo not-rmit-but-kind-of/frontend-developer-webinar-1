@@ -1,6 +1,8 @@
 # Demo project
 
-The project demonstrates basic HTML and CSS. The demo website is not responsive and has been built to be used/shown using a typical desktop viewport. In webinar 2 we will explore making this demo responsive at different viewports. 
+The project demonstrates basic HTML and CSS. 
+
+*The demo website is not responsive and has been built to be used/shown using a typical desktop viewport. In webinar 2 we will explore making this demo responsive at different viewports.*
 
 Please excuse the UX skills :)
 
