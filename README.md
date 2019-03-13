@@ -164,6 +164,7 @@
 
   - Styling boxes
     - Maintain aspect ratio and automatically scale background image with padding bottom as a percentage using formula - Height / (Width / 100)
+    - https://css-tricks.com/aspect-ratio-boxes/  
 
 
 ## 9. Browser devtools
