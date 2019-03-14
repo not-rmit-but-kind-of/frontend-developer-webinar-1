@@ -31,15 +31,17 @@
 - MDN - https://developer.mozilla.org/en-US/ for guides, references etc for HTML, CSS and JavaScript and much more
 - https://css-tricks.com/
 - https://syntax.fm
+- https://news.ycombinator.com
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool
-- icons8.com
+- https://icons8.com
 - https://color.adobe.com/create/color-wheel/
 - http://colormind.io/bootstrap/
-- Twitter (@sarah_edo, @addyosmani, @wesbos, @TheLarkInn, @jaffathecake, @keyframers‏, @dan_abramov)
+- Git Handbook https://guides.github.com/introduction/git-handbook
+- Twitter (@sarah_edo, @addyosmani, @wesbos, @TheLarkInn, @jaffathecake, @keyframers‏, @dan_abramov, @tomdale, @wycats, @necolas, @csswizardry, @paul_irish, )
 
 ## 3. Overview of a web page/site/app
 - HTML, CSS, JavaScript
-- HTTP, DOM, Web APIs (Audio, Canvas), Web Components, Web Assembly
+- HTTP, DOM, Web APIs (Video, Audio, Canvas), Web Components, Web Assembly
 
 ## 4. Code editor (quick overview)
   - VS Code (https://code.visualstudio.com/)
